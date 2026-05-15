@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bug Tracking & Project Management System
 
 ## Overview
