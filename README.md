@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bug Tracking & Project Management System
 
 ## Overview
@@ -60,3 +61,7 @@ A web-based Bug Tracking and Project Management System developed during internsh
 ## Author
 
 Developed by Dev Bhatia
+=======
+# bug-tracker-system
+To develop a web-based bug tracking and project management system that enables software teams toefficiently manage projects, assign tasks, track bugs, and monitor development progress
+>>>>>>> 3d2a71bc86f38fa2c432687d5b8b669af48365ca
